@@ -1,1 +1,2 @@
 
+Como ya existía un archivo dentro de la carpeta archivos (respuesta.txt), github permitió la creación de otro archivo dentro de la carpeta.
